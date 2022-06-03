@@ -6,12 +6,12 @@ const CONFIG = {
     title: 'Identity Verification',
     desc: 'choose the name of the person you hate',
     btnYes: 'Anh Ngoc',
-    btnNo: 'other',
+    btnNo: ':)))',
     question: 'Why do anh hate em?',
     btnReply: 'Gui cho ielts 11.0',
     reply: 'Dam bao nguoi yeu anh khong tat axit em :))',
     mess: 'Day la li do anh thich sieu nhan hong.',
-    messDesc: 'Hen 05/09 - khai giang danh tay doi.',
-    btnAccept: 'Thich thi chieu.',
+    messDesc: 'Hen 05/09 - khai giang solo tay doi.',
+    btnAccept: 'OK',
     messLink: 'https://www.facebook.com/messages/t/100076641075845' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
 }
