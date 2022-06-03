@@ -9,9 +9,9 @@ const CONFIG = {
     btnNo: ':)))',
     question: 'Why do anh hate em?',
     btnReply: 'Gui cho ielts 11.0',
-    reply: 'Hẹn khai giảng 05/09/2022.',
+    reply: 'Ngon, solo khong?',
     mess: 'Khai giang solo tay doi.',
-    messDesc: 'Danh nhau không?',
+    messDesc: 'Hen anh khai giang 05/09/2022?',
     btnAccept: 'okeokeoke',
     messLink: 'https://drive.google.com/file/d/1VVSb4ohiu-zvYUDulFwbEWtgQfHC3x1E/view?usp=sharing' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
 }
