@@ -13,5 +13,5 @@ const CONFIG = {
     mess: 'Day la li do anh thich sieu nhan hong.',
     messDesc: 'Hen 05/09 - khai giang danh tay doi.',
     btnAccept: 'Thich thi chieu.',
-    messLink: 'https://www.facebook.com/messages/t/100010220919087' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
+    messLink: 'https://www.facebook.com/messages/t/100076641075845' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
 }
